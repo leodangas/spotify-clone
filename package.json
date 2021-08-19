@@ -1,5 +1,4 @@
 {
-  "homepage": "http://leodangas.github.io/spotify-clone",
   "name": "reactexpress",
   "version": "1.0.0",
   "description": "React and Express",
@@ -16,7 +15,6 @@
   "author": "Brad Traversy",
   "license": "MIT",
   "devDependencies": {
-    "gh-pages": "^3.2.3",
     "nodemon": "^1.14.6"
   },
   "dependencies": {
